@@ -25,15 +25,17 @@
    
    「~/.config/nvim/init.vim」を開き、
 
-  4. vim(.vimrc)又は,nvim(~/.cofig/nvim/init.vim)に
+  3. vim(.vimrc)又は,nvim(~/.cofig/nvim/init.vim)に
+  
+ 
 
     call plug#begin('~/.config/nvim/plugged')
     Plug 'eternaleight/bubblegum-colorscheme'
     call plug#end()
     
-  を入れる。
+  を入れる。 (bubblegum-colorschemeのインストール)
   
-  5. vimに:PlugInstallを打ち込んでカラースキームをインストールする。
+  4. vimに:PlugInstallを打ち込んでカラースキームをインストールする。
   インストールすると作成したpluggedフォルダにプラグインが入る。
 <br>
   番外編. 　カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
