@@ -4,41 +4,58 @@
 # 使い方
 
 #### vim-plug のインストール(インストールプラグイン入っていない人)
-  1. terminalにコピペ
+<br>
+<br>
+&nbsp;1. terminalにコピペ
+  <br>
+  <br>
   
   vim
-
-    curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ ```sh
+ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ ```
   Neovim
   
-     sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
-     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
-     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+  ```sh
+  sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+  ```
 
-
-  2. 「~/.config/nvim」の中に(インストールプラグイン入っている人はここから）
+<br>
+<br>
+&nbsp;2. 「~/.config/nvim」の中に(インストールプラグイン入っている人はここから）
 
     ~/.config/nvim/plugged
     
    &nbsp;&nbsp;というフォルダを作る。
    
-   「~/.config/nvim/init.vim」を開き、
-
-  3. vim(.vimrc)又は,nvim(~/.cofig/nvim/init.vim)に
+   「\~/.config/nvim/init.vim」を開き、
+<br>
+<br>
+<br>
+<br>
+&nbsp;3. vim(\~/.vimrc)又は,nvim(\~/.cofig/nvim/init.vim)に
   
- 
-
-    call plug#begin('~/.config/nvim/plugged')
-    Plug 'eternaleight/bubblegum-colorscheme'
-    call plug#end()
+```vim
+call plug#begin('~/.config/nvim/plugged')
+Plug 'eternaleight/bubblegum-colorscheme'
+call plug#end()
+```
     
   を入れる。 (bubblegum-colorschemeのインストール)
-  
-  4. vimに:PlugInstallを打ち込んでカラースキームをインストールする。
-  インストールすると作成したpluggedフォルダにプラグインが入る。
 <br>
-  番外編. 　カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
+<br>
+<br>
+<br>
+&nbsp;4. vimに:PlugInstallを打ち込んでカラースキームをインストールする。インストールすると作成したpluggedフォルダにプラグインが入る。
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;番外編. 　カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
   インストールしたbubblegum-colorscheme.vimを(pluggedに入っている)
 
     ~/.config/nvim/colors
