@@ -1,44 +1,5 @@
 scriptencoding utf-8
 
-"hi IncSearch -- no settings --
-"hi WildMenu -- no settings --
-"hi SignColumn -- no settings --
-"hi TabLineSel -- no settings --
-"hi CTagsMember -- no settings --
-"hi CTagsGlobalConstant -- no settings --
-"hi DiffText -- no settings --
-"hi ErrorMsg -- no settings --
-"hi Ignore -- no settings --
-"i Normal guifg=#e2e2e5 guibg=#202020 guisp=#202020 gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
-"hi CTagsImport -- no settings --
-"hi Search -- no settings --
-"hi CTagsGlobalVariable -- no settings --
-"hi SpellRare -- no settings --
-"hi EnumerationValue -- no settings --
-"hi Union -- no settings --
-"hi TabLineFill -- no settings --
-"hi Question -- no settings --
-"hi WarningMsg -- no settings --
-"hi VisualNOS -- no settings --
-"hi DiffDelete -- no settings --
-"hi ModeMsg -- no settings --
-"hi FoldColumn -- no settings --
-"hi EnumerationName -- no settings --
-"hi MoreMsg -- no settings --
-"hi SpellCap -- no settings --
-"hi DiffChange -- no settings --
-"hi SpellLocal -- no settings --
-"hi Error -- no settings --
-"hi DefinedName -- no settings --
-"hi LocalVariable -- no settings --
-"hi SpellBad -- no settings --
-"hi CTagsClass -- no settings --
-"hi Directory -- no settings --
-"hi Underlined -- no settings --
-"hi DiffAdd -- no settings --
-"hi TabLine -- no settings --
-"hi clear -- no settings --
-"hi default -- no settings --
 hi SpecialComment guifg=#ff9800 guibg=NONE guisp=NONE gui=NONE ctermfg=208 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#7e8aa2 guibg=NONE guisp=NONE gui=NONE ctermfg=103 ctermbg=NONE cterm=NONE
 hi Title guifg=#f6f3e8 guibg=NONE guisp=NONE gui=bold ctermfg=230 ctermbg=NONE cterm=bold
