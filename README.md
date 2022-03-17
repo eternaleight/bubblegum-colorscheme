@@ -26,17 +26,19 @@
 <br>
 <br>
 &nbsp;2. 「~/.config/nvim」の中に(インストールプラグイン入っている人はここから）
+<br>
+<br>
+vim
+
+    ~/.vim/plugged
+    
+Neovim
 
     ~/.config/nvim/plugged
     
    &nbsp;&nbsp;というフォルダを作る。
    
-   「\~/.config/nvim/init.vim」を開き、
-<br>
-<br>
-<br>
-<br>
-&nbsp;3. vim(\~/.vimrc)又は,nvim(\~/.cofig/nvim/init.vim)に
+   「\~/.config/nvim/init.vim」を開き、(vimは\~/.vimrc)
   
 ```vim
 call plug#begin('~/.config/nvim/plugged')
@@ -49,7 +51,7 @@ call plug#end()
 <br>
 <br>
 <br>
-&nbsp;4. vimに:PlugInstallを打ち込んでカラースキームをインストールする。インストールすると作成したpluggedフォルダにプラグインが入る。
+&nbsp;3. vimを再起動し、コマンドラインに:PlugInstallを打ち込んでカラースキームをインストールする。インストールすると作成したpluggedフォルダにプラグインが入る。
 <br>
 <br>
 <br>
