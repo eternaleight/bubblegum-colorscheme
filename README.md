@@ -1,7 +1,8 @@
-## vim/nvim用カラースキーム　bubblegum-colorscheme
-<img width="1120" alt="名称未設定2819768" src="https://user-images.githubusercontent.com/96198088/158766264-239b1ab0-7dd5-4ba2-9c65-b9f89390a08d.png">
+# vim/nvim用カラースキーム　bubblegum-colorscheme
+<!-- <img width="1120" alt="名称未設定2819768" src="https://user-images.githubusercontent.com/96198088/158766264-239b1ab0-7dd5-4ba2-9c65-b9f89390a08d.png"> -->
+<br>
 
-# 使い方
+### 使い方
 
 #### vim-plug のインストール(インストールプラグイン入っていない人)
 <br>
