@@ -5,7 +5,7 @@ hi Comment ctermfg=244 guifg=#8389a3
 hi Conceal ctermbg=254 ctermfg=244 guibg=#e8e9ec guifg=#8389a3
 hi Constant ctermfg=97 guifg=#7759b4
 hi Cursor ctermbg=237 ctermfg=254 guibg=#33374c guifg=#e8e9ec
-hi CursorLineNr cterm=NONE ctermbg=NONE ctermfg=103 guibg=#cad0de guifg=#576a9e
+hi CursorLineNr cterm=NONE ctermbg=NONE ctermfg=248 guibg=#cad0de guifg=#576a9e
 hi SpecialComment guifg=#ff9800 guibg=NONE guisp=NONE gui=NONE ctermfg=208 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#7e8aa2 guibg=NONE guisp=NONE gui=NONE ctermfg=103 ctermbg=NONE cterm=NONE
 hi Title guifg=#f6f3e8 guibg=NONE guisp=NONE gui=bold ctermfg=230 ctermbg=NONE cterm=bold
