@@ -5,7 +5,7 @@ hi Comment ctermfg=244 guifg=#8389a3
 hi Conceal ctermbg=254 ctermfg=244 guibg=#e8e9ec guifg=#8389a3
 hi Constant ctermfg=97 guifg=#7759b4
 hi Cursor ctermbg=237 ctermfg=254 guibg=#33374c guifg=#e8e9ec
-hi CursorLineNr cterm=NONE ctermbg=NONE ctermfg=240 guibg=#cad0de guifg=#576a9e
+hi CursorLineNr cterm=NONE ctermbg=NONE ctermfg=103 guibg=#cad0de guifg=#576a9e
 hi SpecialComment guifg=#ff9800 guibg=NONE guisp=NONE gui=NONE ctermfg=208 ctermbg=NONE cterm=NONE
 hi Typedef guifg=#7e8aa2 guibg=NONE guisp=NONE gui=NONE ctermfg=103 ctermbg=NONE cterm=NONE
 hi Title guifg=#f6f3e8 guibg=NONE guisp=NONE gui=bold ctermfg=230 ctermbg=NONE cterm=bold
@@ -100,7 +100,7 @@ hi doxygenspecialonelinedesc guifg=#ad600b guibg=NONE guisp=NONE gui=NONE ctermf
 hi doxygencomment guifg=#ad7b20 guibg=NONE guisp=NONE gui=NONE ctermfg=130 ctermbg=NONE cterm=NONE
 hi cspecialcharacter guifg=#c080d0 guibg=#404040 guisp=#404040 gui=NONE ctermfg=170 ctermbg=NONE cterm=NONE
 
-" hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
+hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
 hi Normal guifg=#e2e2e5 guibg=#202020 guisp=#202020 gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
-hi SignColumn ctermbg=NONE ctermfg=239 guibg=#1e2132 guifg=#444b71
+hi SignColumn ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
 
