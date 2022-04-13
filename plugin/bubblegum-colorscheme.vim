@@ -99,3 +99,8 @@ hi user1 guifg=#00ff8b guibg=#3e3e5e guisp=#3e3e5e gui=NONE ctermfg=48 ctermbg=6
 hi doxygenspecialonelinedesc guifg=#ad600b guibg=NONE guisp=NONE gui=NONE ctermfg=130 ctermbg=NONE cterm=NONE
 hi doxygencomment guifg=#ad7b20 guibg=NONE guisp=NONE gui=NONE ctermfg=130 ctermbg=NONE cterm=NONE
 hi cspecialcharacter guifg=#c080d0 guibg=#404040 guisp=#404040 gui=NONE ctermfg=170 ctermbg=NONE cterm=NONE
+
+" hi LineNr ctermbg=235 ctermfg=239 guibg=#1e2132 guifg=#444b71
+hi Normal guifg=#e2e2e5 guibg=#202020 guisp=#202020 gui=NONE ctermfg=254 ctermbg=234 cterm=NONE
+hi SignColumn ctermbg=NONE ctermfg=239 guibg=#1e2132 guifg=#444b71
+
