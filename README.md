@@ -23,7 +23,8 @@
   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
   ```
-
+<br>
+<br>
 <br>
 <br>
 &nbsp;2. 「~/.config/nvim」の中に(vim-plugが入っている人はここから）
@@ -52,14 +53,29 @@ call plug#end()
 <br>
 <br>
 <br>
+<br>
+
 &nbsp;3. vimを再起動し、コマンドラインに:PlugInstallを打ち込んでカラースキームをインストールする。インストールすると作成したpluggedフォルダにプラグインが入る。
+
 <br>
 <br>
-<br>
-<br>
-<br>
-&nbsp;番外編. 　カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
+カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
   インストールしたbubblegum-colorscheme.vimを(pluggedに入っている)
 
     ~/.config/nvim/colors
   に入れる。
+  
+<br>
+<br>
+<br>
+<br>
+
+削除したい場合は
+```vim
+call plug#begin('~/.config/nvim/plugged')
+ 削除する↓
+- Plug 'eternaleight/bubblegum-colorscheme'
+call plug#end()
+```
+にして:PlugClean
+
