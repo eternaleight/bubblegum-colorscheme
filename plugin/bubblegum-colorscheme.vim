@@ -37,7 +37,7 @@
 "
 " File:       bubblegum-colorscheme.vim
 " Maintainer: eternaleight
-" Modified:   2022-02-02 02:22+0900
+" Modified:   2022-03-17 14:23+0900
 " License:    MIT
 
 scriptencoding utf-8
