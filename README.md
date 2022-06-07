@@ -1,7 +1,7 @@
 # vim/nvim用カラースキーム　bubblegum-colorscheme
 <!-- <img width="1120" alt="名称未設定2819768" src="https://user-images.githubusercontent.com/96198088/158766264-239b1ab0-7dd5-4ba2-9c65-b9f89390a08d.png"> -->
 <br>
-<img width="1185" alt="hakusan-bubble-01" src="https://user-images.githubusercontent.com/96198088/172314913-d8d257ed-9158-4863-8cf1-5f09f93f5a14.png">
+<img width="1185" alt="aa01" src="https://user-images.githubusercontent.com/96198088/172323851-bcb49fb0-abf8-499d-bb98-40ae3e8a5bbd.png">
 
 
 ### 使い方
