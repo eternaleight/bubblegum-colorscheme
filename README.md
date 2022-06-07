@@ -4,7 +4,7 @@
 
 ### 使い方
 
-#### vim-plug のインストール(インストールプラグイン入っていない人)
+#### vim-plug のインストール
 <br>
 <br>
 &nbsp;1. terminalにコピペ
@@ -26,7 +26,7 @@
 
 <br>
 <br>
-&nbsp;2. 「~/.config/nvim」の中に(インストールプラグイン入っている人はここから）
+&nbsp;2. 「~/.config/nvim」の中に(vim-plugが入っている人はここから）
 <br>
 <br>
 vim
