@@ -1,29 +1,27 @@
-"J-((((-.-(-(?z<(<<zOXW]_.(gM#MMNaJ-_dWKZZtdZdz+v_-
-"AwzzOzzw><+?1w;;;+<<<d$~(M#MNNNNNNNNkXWAagQmdmC-?<
-"WmwXuvZdROOwXWUUVYTT7777#^(MNNNNNNNNNNHkAssKuC.z<~
-"(JWMMMHHM9UX0WIlv=?><+<+5(jJ+dNNNNNNNNMNJ1dc~(<:_.
-"wWXMMSOXdQs7zgmz1<>><?vuHHMNNNNNNNNNNNNMNJZ<XH+J--
-"+dMMBXOXZYY77T"7""""""7WNNNNNNNNNNNNNNNNM@(++uz+&>
-":<uv<<<<;<<<:<<?1?z><<zdNNNNNNNNNNNNNNNM@(XkkWmX>_
-"~~~<~~~~~<~~~~_~~::~:(<~W#MNNNNNNNNNMNM8dXNHMMBzw+
-"~~~~~~~~~~~~~.~~~~~~~_<~~?MNNNNNNNNNMm8vHWNWMMHkXc
-".~~..~~~_~~...~~~~~~~~_~~.(MNNNNNNNNNNNMmXMWWyfSv3
-"..~~..~.~<~~~.~.~~.~~._~..(MNNNNNNNNNNNNNMNc<<~__-
-"~..~~~.~~<~~....~....._..(MNNNNNNNNNNNNNNNNM2..._<
-"_~?<~__..<.._..._....._-JMNNNNNNNNNNNNNNNNNNN_....
-".................`.``.`(NNNNNB"""YMNNNNNNNNNN[.`..
-". -.........````.``````WNNNNMNgg+mMNNNNNNNNNNb``.`
-".`..````..```.````````.MNNNNNNNNNNNNNNNNNNNNNN````
-"``.`.``.` ``.`````.```.MNNNNNNNNNNNNNNNNNNNNMM-```
-"..``..````.````..`````dNNNNNNNNNNNNNNNNNNNNNNM[```
-"``_```.`.``.`````.```.MNNNNNNNNNNNNNNNNNNNNNNNF```
-"```````..``....``````,MNNNNNNNNNNNNNNNNNNNNNNM@```
-".........`.``````````,MMR7MMNNNNNNNNNNNNNNNNNM#```
-".`...`..```.``````` .MNMMN,UNNNNNNNNNNNNNNNNNNN```
-"`````.`..````````.(MNNNNNNN_MNNNNNNNNNNNNNNNNNN ``
-"````.``..`.`````.HNNNNNNNNMb,MNNNNNNNNNNNNNNNNM_``
-"``.``````````..MNNNNNNNNNNNMMMMNNNNNNNNNNNNNNNM_`
-"`````````````.#NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN_``
+"  ` ` ` ` `  ` `  ` `  ` `  `  ` `  ` `  ` `  `
+"           ..+77<<<~-.                  ..      `
+"   `    `.<~`````...`_<1.  `   `. `.... ` _i
+" `   `  _``` `  ````.__(zl    ..! ``  _(-` (: `
+"       _ ` `       `` _~(wl      .`  `__<(J!    `
+"   `  ._``  ` `   ` ``._(+d.      ~ .-(J`
+"      (_`` `   `  ````.._<z}         ~        `
+" ` `  (_`` `  ` `` ``..~:<z!`  `         ` `    `
+"       l ``````````..-(xO7<<<<<<~.. `
+"   `   .<.````...-_-<<~_`````..___(1. `  ` `.``
+" `  `    ?-.`..__(;~_.`  ` ````..-._1w,   `._   `
+"     `     .?<(+x1<__```     ````____1w,
+" `    ` `       __`` `    `    ```._~<zX.     `
+"   `     `   `  <_` `  `    `   ``..~(+w)  `    `
+"   `  `    `   .: `` `  `    `````..~(<zr  `  `
+" `   `.~~__.    l-`` `  ` ``  ```...~:;z\       `
+"   ` .`  ` ({   (-``````````````.._~::+v `   `
+"     ~ `  .(:  ` 1-`````````...___(::+v`  `   `
+" ` `  `.(Jv!      ?-.```...____(++++z<     `   `
+"           `-   `   ?+-..__(++zuwwk7`           `
+"  ` `   ` `.~  `       ??1OwWHW""!      `` `  `
+" `   `            `                   `       `
+"      ` ` `  ` `  `  `           `  `...........
+"  ` `    `          `  ` ` `  `  `"
 "
 "■■■■■    ■     ■■  ■■■■■    ■■■■■    ■      ■■■■■■ 
 "■    ■   ■     ■■  ■    ■   ■    ■   ■      ■      
