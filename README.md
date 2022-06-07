@@ -63,7 +63,7 @@ call plug#end()
 <br>
 <br>
 カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
-  インストールしたbubblegum-colorscheme.vimを(pluggedに入っている)
+  インストールしたbubblegum-colorscheme.vimを(~/.config/nvim/pluggedに入っている)
 
     ~/.config/nvim/colors
   に入れる。
