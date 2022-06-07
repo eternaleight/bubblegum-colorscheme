@@ -1,4 +1,62 @@
-scriptencoding utf-8
+"J-((((-.-(-(?z<(<<zOXW]_.(gM#MMNaJ-_dWKZZtdZdz+v_-
+"AwzzOzzw><+?1w;;;+<<<d$~(M#MNNNNNNNNkXWAagQmdmC-?<
+"WmwXuvZdROOwXWUUVYTT7777#^(MNNNNNNNNNNHkAssKuC.z<~
+"(JWMMMHHM9UX0WIlv=?><+<+5(jJ+dNNNNNNNNMNJ1dc~(<:_.
+"wWXMMSOXdQs7zgmz1<>><?vuHHMNNNNNNNNNNNNMNJZ<XH+J--
+"+dMMBXOXZYY77T"7""""""7WNNNNNNNNNNNNNNNNM@(++uz+&>
+":<uv<<<<;<<<:<<?1?z><<zdNNNNNNNNNNNNNNNM@(XkkWmX>_
+"~~~<~~~~~<~~~~_~~::~:(<~W#MNNNNNNNNNMNM8dXNHMMBzw+
+"~~~~~~~~~~~~~.~~~~~~~_<~~?MNNNNNNNNNMm8vHWNWMMHkXc
+".~~..~~~_~~...~~~~~~~~_~~.(MNNNNNNNNNNNMmXMWWyfSv3
+"..~~..~.~<~~~.~.~~.~~._~..(MNNNNNNNNNNNNNMNc<<~__-
+"~..~~~.~~<~~....~....._..(MNNNNNNNNNNNNNNNNM2..._<
+"_~?<~__..<.._..._....._-JMNNNNNNNNNNNNNNNNNNN_....
+".................`.``.`(NNNNNB"""YMNNNNNNNNNN[.`..
+". -.........````.``````WNNNNMNgg+mMNNNNNNNNNNb``.`
+".`..````..```.````````.MNNNNNNNNNNNNNNNNNNNNNN````
+"``.`.``.` ``.`````.```.MNNNNNNNNNNNNNNNNNNNNMM-```
+"..``..````.````..`````dNNNNNNNNNNNNNNNNNNNNNNM[```
+"``_```.`.``.`````.```.MNNNNNNNNNNNNNNNNNNNNNNNF```
+"```````..``....``````,MNNNNNNNNNNNNNNNNNNNNNNM@```
+".........`.``````````,MMR7MMNNNNNNNNNNNNNNNNNM#```
+".`...`..```.``````` .MNMMN,UNNNNNNNNNNNNNNNNNNN```
+"`````.`..````````.(MNNNNNNN_MNNNNNNNNNNNNNNNNNN ``
+"````.``..`.`````.HNNNNNNNNMb,MNNNNNNNNNNNNNNNNM_``
+"``.``````````..MNNNNNNNNNNNMMMMNNNNNNNNNNNNNNNM_`
+"`````````````.#NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN_``
+"
+"■■■■■    ■     ■■  ■■■■■    ■■■■■    ■      ■■■■■■ 
+"■    ■   ■     ■■  ■    ■   ■    ■   ■      ■      
+"■    ■   ■     ■■  ■    ■   ■    ■   ■      ■      
+"■    ■   ■     ■■  ■    ■   ■    ■   ■      ■      
+"■■■■■    ■     ■■  ■■■■■    ■■■■■    ■      ■■■■■■ 
+"■    ■   ■     ■■  ■    ■   ■    ■   ■      ■      
+"■    ■■  ■     ■■  ■    ■■  ■    ■■  ■      ■      
+"■    ■■   ■   ■■   ■    ■■  ■    ■■  ■      ■      
+"■■■■■■     ■■■■    ■■■■■■   ■■■■■■   ■■■■■■ ■■■■■■ 
+"
+"
+"
+" File:       bubblegum-colorscheme.vim
+" Maintainer: eternaleight
+" Modified:   2022-02-02 02:22+0900
+" License:    MIT
+
+
+if !has('gui_running') && &t_Co < 256
+  finish
+endif
+
+hi clear
+if exists('syntax_on')
+  syntax reset
+endif
+
+let g:colors_name = "bubblegum-colorscheme"
+
+if &background == 'light'
+
+
 
 hi CursorLine cterm=NONE ctermbg=253 ctermfg=NONE guibg=#dcdfe7 guifg=NONE
 hi Comment ctermfg=244 guifg=#8389a3
