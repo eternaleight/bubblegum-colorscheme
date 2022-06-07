@@ -1,7 +1,7 @@
 # vim/nvim用カラースキーム　bubblegum-colorscheme
 <!-- <img width="1120" alt="名称未設定2819768" src="https://user-images.githubusercontent.com/96198088/158766264-239b1ab0-7dd5-4ba2-9c65-b9f89390a08d.png"> -->
 <br>
-<img width="1185" alt="005" src="https://user-images.githubusercontent.com/96198088/172327485-190a14b7-30c5-4fcc-ab13-d2918f2055af.png">
+<img width="1185" alt="006" src="https://user-images.githubusercontent.com/96198088/172327961-98781b62-7536-44a4-9170-219379e5e0b6.png">
 
 
 ### 使い方
