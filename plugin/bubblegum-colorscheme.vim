@@ -31,7 +31,7 @@
 "■    ■   ■     ■■  ■    ■   ■    ■   ■      ■      
 "■    ■■  ■     ■■  ■    ■■  ■    ■■  ■      ■      
 "■    ■■   ■   ■■   ■    ■■  ■    ■■  ■      ■      
-"■■■■■■     ■■■■    ■■■■■■   ■■■■■■   ■■■■■■ ■■■■■■  G U M
+"■■■■■■     ■■■■    ■■■■■■   ■■■■■■   ■■■■■■ ■■■■■■ 
 "
 "
 "
@@ -40,21 +40,7 @@
 " Modified:   2022-02-02 02:22+0900
 " License:    MIT
 
-
-if !has('gui_running') && &t_Co < 256
-  finish
-endif
-
-hi clear
-if exists('syntax_on')
-  syntax reset
-endif
-
-let g:colors_name = "bubblegum-colorscheme"
-
-if &background == 'light'
-
-
+scriptencoding utf-8
 
 hi CursorLine cterm=NONE ctermbg=253 ctermfg=NONE guibg=#dcdfe7 guifg=NONE
 hi Comment ctermfg=244 guifg=#8389a3
