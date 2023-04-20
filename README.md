@@ -7,12 +7,11 @@
 
 ### 使い方
 
+
+
+### 1. コマンドラインに入力
 #### vim-plug のインストール
-<br>
-<br>
-&nbsp;1. terminalにコピペ
-  <br>
-  <br>
+
   
   vim
  ```sh
@@ -26,13 +25,9 @@
   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
   ```
-<br>
-<br>
-<br>
-<br>
-&nbsp;2. 「~/.config/nvim」の中に(vim-plugが入っている人はここから）
-<br>
-<br>
+
+### 2.「~/.config/nvim」の中に(vim-plugが入っている人はここから）
+
 vim
 
     ~/.vim/plugged
@@ -52,26 +47,19 @@ call plug#end()
 ```
     
   を入れる。 (bubblegum-colorschemeのインストール)
-<br>
-<br>
-<br>
-<br>
-<br>
 
-&nbsp;3. vimを再起動し、コマンドラインに:PlugInstallを打ち込んでカラースキームをインストールする。インストールすると作成したpluggedフォルダにプラグインが入る。
 
-<br>
-<br>
+### 3. vimを再起動し、:PlugInstallを打ち込んでカラースキームをインストールする。
+
+インストールすると作成したpluggedフォルダにプラグインが入る。
+
 カラースキームコマンド(:colorscheme bubblegum-colorscheme)でカラーを設定したい場合は、
   インストールしたbubblegum-colorscheme.vimを(~/.config/nvim/pluggedに入っている)
 
     ~/.config/nvim/colors
   に入れる。
   
-<br>
-<br>
-<br>
-<br>
+
 
 削除したい場合は
 ```vim
